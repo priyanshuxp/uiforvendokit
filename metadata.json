@@ -1,0 +1,6 @@
+{
+  "name": "Vendokit",
+  "description": "Next-generation commerce platform and modern Shopify alternative with headless storefronts, creator commission splits, and multi-warehouse logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
